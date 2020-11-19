@@ -13,7 +13,6 @@ class TransformComponent;
 class RenderComponent;
 class Game;
 
-
 /**
 * @brief Basic class for all entities (objects) in the scene.
 */
@@ -48,7 +47,7 @@ public:
 	//Component* GetComponent(ComponentType type);	//old
 	template<typename T> T* GetComponent()			//new
 	{
-		//todo:
+		//todo:‡‚‡‚‡‚sdsdsd
 		return static_cast<T*>(m_components[Game::GetInstance().GetComponentTypeManager()->template GetComponentTypeIndex<T>()]);
 	}
 
