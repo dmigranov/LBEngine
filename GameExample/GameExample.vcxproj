@@ -72,29 +72,29 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
-    <IncludePath>D:\Code\LBEngine\LBEngine\packages\directxtk_desktop_2015.2019.12.17.1\include;D:\Code\LBEngine\LBEngine\inc;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\Code\LBEngine\LBEngine\packages\directxtk_desktop_2015.2019.12.17.1\lib\x64\Release;D:\Code\LBEngine\LBEngine\bin64;$(LibraryPath)</LibraryPath>
+    <IncludePath>..\LBEngine\packages\directxtk_desktop_2015.2019.12.17.1\include;..\LBEngine\inc;$(IncludePath)</IncludePath>
+    <LibraryPath>..\LBEngine\packages\directxtk_desktop_2015.2019.12.17.1\lib\x64\Release;..\LBEngine\bin64;$(LibraryPath)</LibraryPath>
     <OutDir>bin64\</OutDir>
     <TargetName>DXSphEll</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>D:\Code\LBEngine\LBEngine\packages\directxtk_desktop_2015.2019.12.17.1\include;D:\Code\LBEngine\LBEngine\inc;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\Code\LBEngine\LBEngine\bin;$(LibraryPath)</LibraryPath>
+    <IncludePath>..\LBEngine\packages\directxtk_desktop_2015.2019.12.17.1\include;..\LBEngine\inc;$(IncludePath)</IncludePath>
+    <LibraryPath>..\LBEngine\packages\directxtk_desktop_2015.2019.12.17.1\lib\Win32\Debug;..\LBEngine\bin;$(LibraryPath)</LibraryPath>
     <OutDir>bin</OutDir>
     <TargetName>$(ProjectName)d</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>D:\Code\LBEngine\LBEngine\packages\directxtk_desktop_2015.2019.12.17.1\include;D:\Code\LBEngine\LBEngine\inc;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\Code\LBEngine\LBEngine\packages\directxtk_desktop_2015.2019.12.17.1\lib\x64\Debug;D:\Code\LBEngine\LBEngine\bin64;$(LibraryPath)</LibraryPath>
+    <IncludePath>..\LBEngine\packages\directxtk_desktop_2015.2019.12.17.1\include;..\LBEngine\inc;$(IncludePath)</IncludePath>
+    <LibraryPath>..\LBEngine\packages\directxtk_desktop_2015.2019.12.17.1\lib\x64\Debug;..\LBEngine\bin64;$(LibraryPath)</LibraryPath>
     <OutDir>bin64\</OutDir>
     <TargetName>$(ProjectName)d</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
-    <IncludePath>D:\Code\LBEngine\LBEngine\packages\directxtk_desktop_2015.2019.12.17.1\include;D:\Code\LBEngine\LBEngine\inc;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\Code\LBEngine\LBEngine\packages\directxtk_desktop_2015.2019.12.17.1\lib\Win32\Release;D:\Code\LBEngine\LBEngine\bin;$(LibraryPath)</LibraryPath>
+    <IncludePath>..\LBEngine\packages\directxtk_desktop_2015.2019.12.17.1\include;..\LBEngine\inc;$(IncludePath)</IncludePath>
+    <LibraryPath>..\LBEngine\packages\directxtk_desktop_2015.2019.12.17.1\lib\Win32\Release;..\LBEngine\bin;$(LibraryPath)</LibraryPath>
     <OutDir>bin</OutDir>
     <TargetName>DXSphEll</TargetName>
   </PropertyGroup>
