@@ -1,7 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
-  <ProjectOutputs></ProjectOutputs>
-  <ContentFiles>D:\Code\LBEngine\LBEngine\bin64\BasicPixelShader_d.cso;D:\Code\LBEngine\LBEngine\bin64\BasicVertexShader.cso;D:\Code\LBEngine\LBEngine\bin64\MorphingVertexShader.cso;D:\Code\LBEngine\LBEngine\bin64\VertexEllipticalExpFogShader_d.cso;D:\Code\LBEngine\LBEngine\bin64\VertexEllipticalExpSqFogShader_d.cso;D:\Code\LBEngine\LBEngine\bin64\VertexSphericalExpFogShader_d.cso;D:\Code\LBEngine\LBEngine\bin64\VertexSphericalExpSqFogShader_d.cso;D:\Code\LBEngine\LBEngine\bin64\GeometryShader.cso</ContentFiles>
-  <SatelliteDlls></SatelliteDlls>
-  <NonRecipeFileRefs></NonRecipeFileRefs>
+  <ProjectOutputs />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Denis Learning\repos\LBEngine\LBEngine\bin64\BasicPixelShader_d.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Denis Learning\repos\LBEngine\LBEngine\bin64\BasicVertexShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Denis Learning\repos\LBEngine\LBEngine\bin64\MorphingVertexShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Denis Learning\repos\LBEngine\LBEngine\bin64\VertexEllipticalExpFogShader_d.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Denis Learning\repos\LBEngine\LBEngine\bin64\VertexEllipticalExpSqFogShader_d.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Denis Learning\repos\LBEngine\LBEngine\bin64\VertexSphericalExpFogShader_d.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Denis Learning\repos\LBEngine\LBEngine\bin64\VertexSphericalExpSqFogShader_d.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Denis Learning\repos\LBEngine\LBEngine\bin64\GeometryShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
 </Project>
